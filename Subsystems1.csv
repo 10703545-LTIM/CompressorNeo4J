@@ -1,0 +1,10 @@
+﻿Subsystem_ID,Subsystem_Name,Original_Category,No_of_Parameters
+SUB-01,Historical/Performance,Compressor Historical/Performance Data (Source- SAP/Site supplied data),8
+SUB-02,Process & Operating,Process Parameters- Source- OSI/PI/SEEQ/DCS/Other,20
+SUB-03,Lube Oil System,Lubrication System,6
+SUB-04,Seal Gas System (Dry),Sealing System- Dry Gas Seal,9
+SUB-05,Seal Oil System (Wet),Sealing System-Wet Seal,3
+SUB-06,Bearing Temperatures,Compressor Bearing Temperature (Source- System-1/other),4
+SUB-07,Compressor Vibration & Axial,Compressor Vibration/Axial Displacemen (Source- System-1/Other),8
+SUB-08,Driver Vibration & Axial,Compressor-Driver Vibration/AxiaL Displacement (Source-System-1/Other,7
+SUB-09,Oil Analysis,Oil Analysis (Source Lab/3rd party report/other),5
