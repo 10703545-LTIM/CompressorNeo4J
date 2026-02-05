@@ -1,0 +1,87 @@
+﻿RootCause_ID,Symptom_ID,Symptom,Root_Cause,Typical_Cause_Effect_Chain,Notes
+RC-001,SYM-01,High Vibration,Operation near surge / recycle instability,Suction flow ↓ / recycle valve opens ↑ → surge events → vibration spikes ↑ → discharge temperature ↑,Multiple possible causes; validate with OEM/site data.
+RC-002,SYM-01,High Vibration,Rotor imbalance (fouling/impeller damage),,Multiple possible causes; validate with OEM/site data.
+RC-003,SYM-01,High Vibration,Misalignment/soft-foot/coupling issues,,Multiple possible causes; validate with OEM/site data.
+RC-004,SYM-01,High Vibration,Bearing lubrication deficiency (low oil pressure/high temp),Oil pressure ↓ or oil temp ↑ → film thickness ↓ → bearing temp ↑ → vibration ↑ → trip risk,Multiple possible causes; validate with OEM/site data.
+RC-005,SYM-01,High Vibration,Liquid carryover / slugging,,Multiple possible causes; validate with OEM/site data.
+RC-006,SYM-01,High Vibration,Seal rub / internal rubbing,,Multiple possible causes; validate with OEM/site data.
+RC-007,SYM-01,High Vibration,Foundation or piping strain,,Multiple possible causes; validate with OEM/site data.
+RC-008,SYM-02,High Axial Displacement,Thrust bearing wear/overload,,Multiple possible causes; validate with OEM/site data.
+RC-009,SYM-02,High Axial Displacement,Balance line/balance piston seal degradation,,Multiple possible causes; validate with OEM/site data.
+RC-010,SYM-02,High Axial Displacement,"Process thrust change (ΔP change, recycle swings)",,Multiple possible causes; validate with OEM/site data.
+RC-011,SYM-02,High Axial Displacement,Rotor rub (axial),,Multiple possible causes; validate with OEM/site data.
+RC-012,SYM-02,High Axial Displacement,Instrumentation drift of axial probes,,Multiple possible causes; validate with OEM/site data.
+RC-013,SYM-03,Higher power drawn,Operating away from best efficiency point (BEP),,Multiple possible causes; validate with OEM/site data.
+RC-014,SYM-03,Higher power drawn,Fouled compressor internals / increased losses,,Multiple possible causes; validate with OEM/site data.
+RC-015,SYM-03,Higher power drawn,Higher gas density/MW or higher flow demand,,Multiple possible causes; validate with OEM/site data.
+RC-016,SYM-03,Higher power drawn,Higher pressure ratio (discharge pressure up),,Multiple possible causes; validate with OEM/site data.
+RC-017,SYM-03,Higher power drawn,Intercooler fouling leading to higher work,Cooler duty ↓ → interstage temp ↑ → discharge temp ↑ → power ↑,Multiple possible causes; validate with OEM/site data.
+RC-018,SYM-04,Surge Spikes/Surging,Low flow demand / recycle loop instability,,Multiple possible causes; validate with OEM/site data.
+RC-019,SYM-04,Surge Spikes/Surging,Suction restriction (strainer/filter plugging),Inlet strainer DP ↑ → suction pressure ↓ → flow ↓ → surge margin ↓ → surging/vibration ↑,Multiple possible causes; validate with OEM/site data.
+RC-020,SYM-04,Surge Spikes/Surging,Faulty flow/DP signal to anti-surge controller,,Multiple possible causes; validate with OEM/site data.
+RC-021,SYM-04,Surge Spikes/Surging,Recycle valve stiction/slow response,,Multiple possible causes; validate with OEM/site data.
+RC-022,SYM-04,Surge Spikes/Surging,Rapid process disturbances upstream/downstream,,Multiple possible causes; validate with OEM/site data.
+RC-023,SYM-05,High Radial bearing Temperature,Low lube oil pressure or flow,,Multiple possible causes; validate with OEM/site data.
+RC-024,SYM-05,High Radial bearing Temperature,High lube oil temperature / low viscosity,,Multiple possible causes; validate with OEM/site data.
+RC-025,SYM-05,High Radial bearing Temperature,Bearing wear/contamination,,Multiple possible causes; validate with OEM/site data.
+RC-026,SYM-05,High Radial bearing Temperature,Misalignment causing bearing loading,,Multiple possible causes; validate with OEM/site data.
+RC-027,SYM-05,High Radial bearing Temperature,Cooling water upset / cooler fouling,,Multiple possible causes; validate with OEM/site data.
+RC-028,SYM-06,High Thrust Bearing Temperature,Thrust bearing pad damage / wipe,,Multiple possible causes; validate with OEM/site data.
+RC-029,SYM-06,High Thrust Bearing Temperature,High axial thrust due to balance piston issues,,Multiple possible causes; validate with OEM/site data.
+RC-030,SYM-06,High Thrust Bearing Temperature,Recycling/surge causing thrust reversals,,Multiple possible causes; validate with OEM/site data.
+RC-031,SYM-06,High Thrust Bearing Temperature,Low oil pressure/high oil temp,,Multiple possible causes; validate with OEM/site data.
+RC-032,SYM-06,High Thrust Bearing Temperature,Axial rub or seal drag,,Multiple possible causes; validate with OEM/site data.
+RC-033,SYM-07,High Discharge Temperature,High pressure ratio / low suction pressure,,Multiple possible causes; validate with OEM/site data.
+RC-034,SYM-07,High Discharge Temperature,Low flow / recycle/surge,,Multiple possible causes; validate with OEM/site data.
+RC-035,SYM-07,High Discharge Temperature,Interstage cooler fouling / low CW flow,,Multiple possible causes; validate with OEM/site data.
+RC-036,SYM-07,High Discharge Temperature,High suction temperature,,Multiple possible causes; validate with OEM/site data.
+RC-037,SYM-07,High Discharge Temperature,Internal fouling reducing efficiency,,Multiple possible causes; validate with OEM/site data.
+RC-038,SYM-08,Low Discharge Flow,Suction restriction (strainer/filter/valve),,Multiple possible causes; validate with OEM/site data.
+RC-039,SYM-08,Low Discharge Flow,Low speed / driver limitation,,Multiple possible causes; validate with OEM/site data.
+RC-040,SYM-08,Low Discharge Flow,Recycle valve open (low net flow),,Multiple possible causes; validate with OEM/site data.
+RC-041,SYM-08,Low Discharge Flow,Process demand reduction,,Multiple possible causes; validate with OEM/site data.
+RC-042,SYM-08,Low Discharge Flow,Instrumentation error (flow transmitter),,Multiple possible causes; validate with OEM/site data.
+RC-043,SYM-09,High Suction Pressure,Upstream process upset / higher upstream pressure,,Multiple possible causes; validate with OEM/site data.
+RC-044,SYM-09,High Suction Pressure,Suction valve/IGV control issue,,Multiple possible causes; validate with OEM/site data.
+RC-045,SYM-09,High Suction Pressure,Recycle backflow raising suction pressure,,Multiple possible causes; validate with OEM/site data.
+RC-046,SYM-09,High Suction Pressure,Suction drum control issue,,Multiple possible causes; validate with OEM/site data.
+RC-047,SYM-10,Low Discharge Pressure,Recycle valve open (near surge),,Multiple possible causes; validate with OEM/site data.
+RC-048,SYM-10,Low Discharge Pressure,Low speed,,Multiple possible causes; validate with OEM/site data.
+RC-049,SYM-10,Low Discharge Pressure,Internal damage/fouling reducing head,,Multiple possible causes; validate with OEM/site data.
+RC-050,SYM-10,Low Discharge Pressure,High suction temperature / low density,,Multiple possible causes; validate with OEM/site data.
+RC-051,SYM-10,Low Discharge Pressure,Leakage (seal/clearance),,Multiple possible causes; validate with OEM/site data.
+RC-052,SYM-11,High Lube Oil Supply Temperature,Cooling water inlet temperature high,,Multiple possible causes; validate with OEM/site data.
+RC-053,SYM-11,High Lube Oil Supply Temperature,LO cooler fouling / low CW flow,,Multiple possible causes; validate with OEM/site data.
+RC-054,SYM-11,High Lube Oil Supply Temperature,Bypass valve stuck open,,Multiple possible causes; validate with OEM/site data.
+RC-055,SYM-11,High Lube Oil Supply Temperature,Fan/pump failure,,Multiple possible causes; validate with OEM/site data.
+RC-056,SYM-11,High Lube Oil Supply Temperature,High ambient / utility limitations,,Multiple possible causes; validate with OEM/site data.
+RC-057,SYM-12,"High Seal leak off pressure 
+(Applicable for Dry Gas Seal)",Vent restriction / high backpressure,,Multiple possible causes; validate with OEM/site data.
+RC-058,SYM-12,"High Seal leak off pressure 
+(Applicable for Dry Gas Seal)",Seal face wear / damage,,Multiple possible causes; validate with OEM/site data.
+RC-059,SYM-12,"High Seal leak off pressure 
+(Applicable for Dry Gas Seal)",High seal gas supply pressure / wrong setpoint,,Multiple possible causes; validate with OEM/site data.
+RC-060,SYM-12,"High Seal leak off pressure 
+(Applicable for Dry Gas Seal)",Contamination / liquid carryover in seal gas,,Multiple possible causes; validate with OEM/site data.
+RC-061,SYM-12,"High Seal leak off pressure 
+(Applicable for Dry Gas Seal)",Reference/barrier/buffer gas control malfunction,,Multiple possible causes; validate with OEM/site data.
+RC-062,SYM-13,"High Seal leak off flow
+(Applicable for Dry Gas Seal)",Seal face wear / increased leakage,Seal DP unstable/contamination → seal face damage → vent flow ↑ → leak-off pressure/flow ↑,Multiple possible causes; validate with OEM/site data.
+RC-063,SYM-13,"High Seal leak off flow
+(Applicable for Dry Gas Seal)",Liquid carryover damaging DGS,,Multiple possible causes; validate with OEM/site data.
+RC-064,SYM-13,"High Seal leak off flow
+(Applicable for Dry Gas Seal)",Seal gas DP/supply instability,,Multiple possible causes; validate with OEM/site data.
+RC-065,SYM-13,"High Seal leak off flow
+(Applicable for Dry Gas Seal)",Vent restriction or flare header swings,,Multiple possible causes; validate with OEM/site data.
+RC-066,SYM-13,"High Seal leak off flow
+(Applicable for Dry Gas Seal)",Coalescer saturation/plugging,,Multiple possible causes; validate with OEM/site data.
+RC-067,SYM-14,"High Seal Oil loss
+(Applicable for Wet Seal)",Seal ring wear / increased leakage,,Multiple possible causes; validate with OEM/site data.
+RC-068,SYM-14,"High Seal Oil loss
+(Applicable for Wet Seal)",High seal oil DP or high temperature (low viscosity),,Multiple possible causes; validate with OEM/site data.
+RC-069,SYM-14,"High Seal Oil loss
+(Applicable for Wet Seal)",Seal oil system control malfunction,,Multiple possible causes; validate with OEM/site data.
+RC-070,SYM-14,"High Seal Oil loss
+(Applicable for Wet Seal)",Drain/degassing issues causing carryover,,Multiple possible causes; validate with OEM/site data.
+RC-071,SYM-14,"High Seal Oil loss
+(Applicable for Wet Seal)",Incorrect oil level or wrong oil grade,,Multiple possible causes; validate with OEM/site data.

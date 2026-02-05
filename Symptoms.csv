@@ -1,0 +1,18 @@
+﻿Symptom_ID,Symptom_No,Symptom
+SYM-01,1,High Vibration
+SYM-02,2,High Axial Displacement
+SYM-03,3,Higher power drawn
+SYM-04,4,Surge Spikes/Surging
+SYM-05,5,High Radial bearing Temperature
+SYM-06,6,High Thrust Bearing Temperature
+SYM-07,7,High Discharge Temperature
+SYM-08,8,Low Discharge Flow
+SYM-09,9,High Suction Pressure
+SYM-10,10,Low Discharge Pressure
+SYM-11,11,High Lube Oil Supply Temperature
+SYM-12,12,"High Seal leak off pressure
+(Applicable for Dry Gas Seal)"
+SYM-13,13,"High Seal leak off flow
+(Applicable for Wet Gas Seal)"
+SYM-14,14,"High Seal Oil loss
+(Applicable for Wet Gas Seal)"
